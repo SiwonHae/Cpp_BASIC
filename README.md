@@ -9,6 +9,8 @@
 - Chapter 08 상속과 다형성 (2021.12.16)
 - Chapter 10 연산자 오버로딩 1 (2021.12.17)
 - Chapter 11 연산자 오버로딩 2 (2021.12.18)
+- Chapter 12 String 클래스의 디자인 (2021.12.19)
+- Chapter 13 템플릿(Template) 1 (2021.12.19)
 
 ### OOP Project
 - OOP Project 01 (2021.11.21)
